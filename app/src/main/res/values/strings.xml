@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kurir Laudry</string>
+    <string name="title_activity_ambil">Map</string>
+
+    <string name="google_maps_key">AIzaSyDT4V_0SAmN0-9eED3W1YSrDnS5IjMtZKY</string>
+    <string name="title_activity_navigasi">Map</string>
+</resources>
